@@ -1,5 +1,3 @@
-export const prerender = true;
-
 <script>
   import "../app.css";
   import Footer from "../components/Footer.svelte";
