@@ -93,8 +93,10 @@
       </Step>
       <Step step={steps[1]}>
         <p class="text-base sm:text-lg md:text-xl">
-          This is a back-end soccer management app built with <strong class="text-violet-400">Java, Spring Boot, Spring Data JPA, 
-          Spring Security, and deployed with Heroku.</strong> It's a work in progress, but it's already functional.
+          This is a back-end soccer management app built with <strong class="text-violet-400">TypeScript, Node.js, Express.js,
+          and Sequelize,</strong> designed to handle the management of soccer matches and team data. It provides authentication
+          and offers a range of endpoints for creating, updating, and retrieving match and team information, making it a key component
+          for a comprehensive soccer management system.
         </p>
       </Step>
       <Step step={steps[2]}>
