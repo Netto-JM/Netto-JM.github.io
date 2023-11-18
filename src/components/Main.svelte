@@ -101,8 +101,12 @@
       </Step>
       <Step step={steps[2]}>
         <p class="text-base sm:text-lg md:text-xl">
-          This is a full-stack recipe app built with <strong class="text-violet-400">React, Redux, TypeScript, TailwindCSS, 
-          Node.js, Express, PostgreSQL, and deployed with Heroku.</strong> It's a work in progress, but it's already functional.
+          The Full Stack Recipe App is a comprehensive platform developed with <strong class="text-violet-400">React</strong>
+          on the front end and <strong class="text-violet-400">TypeScript, Node.js, Express.js, Sequelize, and Docker</strong>
+          on the back end. It empowers users to explore, search, and manage a vast array of recipes for meals and drinks. 
+          The app offers features like favoriting, progress tracking, and detailed recipe information. With its robust 
+          front-end components and a dockerized back end, the Recipe App provides an engaging and efficient solution for 
+          anyone passionate about cooking and trying new recipes.
         </p>
       </Step>
     </div>
