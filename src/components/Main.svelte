@@ -87,8 +87,10 @@
     <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-10">
       <Step step={steps[0]}>
         <p class="text-base sm:text-lg md:text-xl">
-          This is a front-end online store built with <strong class="text-violet-400">React, Redux, TypeScript, TailwindCSS, 
-          and deployed with Vercel.</strong> It's a work in progress, but it's already functional.
+          Front-End Online Store is a <strong class="text-violet-400">React-based application</strong> that provides a simplified online shopping experience. 
+          Users can explore a variety of products, add them to a shopping cart, and simulate the checkout process. 
+          Leveraging the <strong class="text-violet-400">Mercado Livre API</strong>, the app allows for dynamic product searches and detailed product views, 
+          making it a user-friendly front-end solution for online retail.
         </p>
       </Step>
       <Step step={steps[1]}>
